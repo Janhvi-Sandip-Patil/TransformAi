@@ -1,0 +1,6 @@
+{
+  "name": "TransformAI - GenAI Content Transformation Platform",
+  "description": "Automated multi-format document ingestion, structured intelligence extraction, executive summaries, slide decks, translations, and knowledge search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
